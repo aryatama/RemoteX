@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://aryatama:Code5676@remotex.yuw1f.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret" : "aryatama"
+}
